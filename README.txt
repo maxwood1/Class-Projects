@@ -1,0 +1,1 @@
+This is an organizational repository to track my projects from Masters-level Statistics classes
